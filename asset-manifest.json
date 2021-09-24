@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/workflowmanagement-app/static/css/main.7b0ca580.chunk.css",
-    "main.js": "/workflowmanagement-app/static/js/main.b9be2529.chunk.js",
-    "main.js.map": "/workflowmanagement-app/static/js/main.b9be2529.chunk.js.map",
+    "main.js": "/workflowmanagement-app/static/js/main.889c79e1.chunk.js",
+    "main.js.map": "/workflowmanagement-app/static/js/main.889c79e1.chunk.js.map",
     "runtime-main.js": "/workflowmanagement-app/static/js/runtime-main.ec51f8c2.js",
     "runtime-main.js.map": "/workflowmanagement-app/static/js/runtime-main.ec51f8c2.js.map",
     "static/js/2.f5313287.chunk.js": "/workflowmanagement-app/static/js/2.f5313287.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ec51f8c2.js",
     "static/js/2.f5313287.chunk.js",
     "static/css/main.7b0ca580.chunk.css",
-    "static/js/main.b9be2529.chunk.js"
+    "static/js/main.889c79e1.chunk.js"
   ]
 }
